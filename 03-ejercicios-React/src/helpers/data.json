@@ -1,0 +1,34 @@
+{
+    "initaldb": [{
+        "id": 1,
+        "name": "Seiya",
+        "constellation": "Pegaso"
+
+    },
+    {
+        "id": 2,
+        "name": "Shiryu",
+        "constellation": "dragon"
+
+    },
+    {
+        "id": 3,
+        "name": "Hyoga",
+        "constellation": "cisne"
+
+    },
+    {
+        "id": 4,
+        "name": "Shun",
+        "constellation": "Andrómeda"
+
+    },
+    {
+        "id": 5,
+        "name": "Seiya",
+        "constellation": "Pegaso"
+
+    }
+]
+
+}
